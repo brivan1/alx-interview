@@ -24,7 +24,7 @@ Proficiency in Python, including loops, conditionals, and functions, is necessar
 By studying these concepts and utilizing the resources provided, you will be equipped to tackle the “Minimum Operations” problem effectively, applying both mathematical reasoning and programming skills to find the most efficient solution.
 
 Additional Resources
-Mock Technical Interview
+[Mock Technical Interview](https://www.youtube.com/watch?v=h4i4kjwncoU)
 Requirements
 General
 Allowed editors: vi, vim, emacs
