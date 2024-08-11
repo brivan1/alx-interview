@@ -4,23 +4,23 @@ Concepts Needed:
 Backtracking Algorithms:
 
 Understanding how backtracking algorithms work to explore all potential solutions to a problem and backtrack when a solution cannot be completed.
-Backtracking Introduction
+[Backtracking Introduction](https://www.geeksforgeeks.org/introduction-to-backtracking-2/)
 Recursion:
 
 Using recursive functions to implement backtracking algorithms.
-Recursion in Python
+[Recursion in Python](https://realpython.com/python-thinking-recursively/)
 List Manipulations in Python:
 
 Creating and manipulating lists, especially to store the positions of queens on the board.
-Python Lists
+[Python Lists](https://docs.python.org/3/tutorial/datastructures.html)
 Python Command Line Arguments:
 
 Handling command-line arguments with the sys module.
-Command Line Arguments in Python
+[Command Line Arguments in Python](https://docs.python.org/3.3/library/sys.html#sys.argv)
 By studying these concepts and utilizing the resources provided, you will be equipped with the knowledge required to implement an efficient solution to the N queens problem using Python. This project not only tests programming and problem-solving skills but also offers an excellent opportunity to learn about algorithmic thinking and optimization techniques.
 
 Additional Resources
-Mock Interview
+[Mock Interview](https://www.youtube.com/watch?v=GneS80iYa7I)
 Requirements
 General
 Allowed editors: vi, vim, emacs
@@ -33,6 +33,7 @@ All your files must be executable
 Tasks
 0. N queens
 mandatory
+Score: 100.0% (Checks completed: 100.0%)
 
 Chess grandmaster Judit Polgár, the strongest female chess player of all time
 
