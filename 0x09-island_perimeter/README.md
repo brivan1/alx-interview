@@ -21,20 +21,20 @@ Conditional statements to check the status of adjacent cells.
 Resources:
 Python Official Documentation:
 
-Nested Lists: Understanding how to work with lists within lists in Python.
+[Nested Lists](https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions): Understanding how to work with lists within lists in Python.
 GeeksforGeeks Articles:
 
-Python Multi-dimensional Arrays: A guide to working with 2D arrays in Python effectively.
+[Python Multi-dimensional Arrays](https://www.geeksforgeeks.org/python-using-2d-arrays-lists-the-right-way/): A guide to working with 2D arrays in Python effectively.
 TutorialsPoint:
 
-Python Lists: Explains how to create, access, and manipulate lists in Python, which is essential for working with a grid.
+[Python Lists](https://www.tutorialspoint.com/python/python_lists.htm): Explains how to create, access, and manipulate lists in Python, which is essential for working with a grid.
 YouTube Tutorials:
 
-Python 2D arrays and lists
+[Python 2D arrays and lists](https://www.youtube.com/watch?v=aNzepGawwCI)
 By understanding these concepts and utilizing the provided resources, you will be equipped to approach the problem methodically. You’ll need to iterate over the grid, apply logical operations to identify the perimeter of the island, and account for the specific conditions described in the task. This project not only tests your algorithmic thinking but also reinforces your ability to manipulate data structures and apply logical reasoning to solve problems.
 
 Additional Resources
-Mock Technical Interviews
+[Mock Technical Interviews](https://www.youtube.com/watch?v=fFgEM6CMQc4)
 Requirements
 General
 Allowed editors: vi, vim, emacs
